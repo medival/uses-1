@@ -1,9 +1,9 @@
 # uses
 Here are the software and hardware I use.
 
-## Computer and specs
+## Hardware
 
-### Specs-1
+### Computer-1
 
 * OS: macOS Mojave 10.14.6 (hackintosh)
 * Display: Dell U2718Q 4K *2
@@ -12,7 +12,7 @@ Here are the software and hardware I use.
 * RAM: 16 GB (8x2) DDR3 2133 MHz
 * SSD: 256 GB (M.2 SATA)
 
-### Specs-2
+### Computer-2
 
 * Host: Mac mini i5 3GHz 6c、16GB 2666MHz DDR4、256GB SSD
 * Display: Philips PHL 272B8Q
@@ -22,3 +22,11 @@ Here are the software and hardware I use.
 * NAS：Synology DS218plus、WD-2TB *2
 * Router：ASUS RT-AC87U AC2400M
 * Router：NETGEAR R7000-AC1900M
+
+## Software
+
+* Visual Studio Code
+* WebStorm
+* Alfred
+* iTerm2
+* Thor
